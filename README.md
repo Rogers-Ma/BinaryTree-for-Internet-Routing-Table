@@ -5,9 +5,13 @@ hop) in Postorder (Left, Right, Root). Indent each line by the length of the pre
 and output the results into another file. 
 
 The test input file is A2-test-in.txt
+
 The test output file is A2-test-out.txt
+
 The input file is A2-input.txt
+
 The output file is A2-output.txt
+
 
 ## Background: 
 A routing entry or prefix/length has the format: (a.b.c.d/x, next hop), where a, b, c and d are integers with a range of 0-255. The 
